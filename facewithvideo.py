@@ -28,20 +28,14 @@ rithika_face_encoding = face_recognition.face_encodings(rithika_image)[0]
 
 # Create arrays of known face encodings and their names
 known_face_encodings = [
-    nithya_face_encoding,
     rachana_face_encoding,
-    mukta_face_encoding,
     rithika_face_encoding,
-    sushila_face_encoding,
     harry_face_encoding,
     
 ]
 known_face_names = [
-    "Nithyananda Chowta",
     "Rachana",
-    "Mukta",
     "Rithika",
-    "Sushila",
     "Harry Potter",
 ]
 
