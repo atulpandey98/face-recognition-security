@@ -6,8 +6,8 @@ If there is no match found, the person is considered to be an intruder and an em
 
 I used Adam Geitgey's face recognition API. For more details, see his [Github repo] (https://github.com/ageitgey/face_recognition)
 
-## [Blog post] (https://medium.com/@rithikachowta/raspberry-pi-security-system-with-face-recognition-f9e6d611f7bf)
+## [Blog post](https://medium.com/@rithikachowta/raspberry-pi-security-system-with-face-recognition-f9e6d611f7bf)
 
 The programme was run on a Raspberry Pi 3 B with a USB webcam.
 
-## [Demo] (https://www.youtube.com/watch?v=_ePI2vqGEns)
+## [Demo](https://www.youtube.com/watch?v=_ePI2vqGEns)
