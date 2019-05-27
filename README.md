@@ -10,6 +10,5 @@ The programme was run on a Raspberry Pi 3 B with a USB webcam.
 
 ## Useful links:
 
-**[Blog post](https://medium.com/@rithikachowta/raspberry-pi-security-system-with-face-recognition-f9e6d611f7bf)**
+**[Blog post](https://medium.com/@rithikachowta/tinkering-around-with-opencv-during-a-college-project-gave-me-a-newfound-interest-in-computer-67704d163cca)**
 
-**[Demo](https://www.youtube.com/watch?v=_ePI2vqGEns)**
