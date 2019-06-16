@@ -1,4 +1,7 @@
 # Door Security System with Facial Recognition
+
+![gif](https://imgur.com/ZgfokcZ)
+
 This programme processes frames from live video and compares detected faces against a set of known face encodings. 
 
 If there is a match, the person is considered to be known and nothing is done. 
