@@ -1,6 +1,6 @@
 # Door Security System with Facial Recognition
 
-![gif](https://imgur.com/ZgfokcZ)
+![gif](https://i.imgur.com/ZgfokcZ.gif)
 
 This programme processes frames from live video and compares detected faces against a set of known face encodings. 
 
